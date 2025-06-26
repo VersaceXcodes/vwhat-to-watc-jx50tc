@@ -1,2 +1,3 @@
-# vwhat-to-watc-jx50tc
-Generated project for vwhat-to-watc
+# vwhat-to-watc
+
+This is the README for vwhat-to-watc.
